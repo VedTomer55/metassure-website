@@ -1,0 +1,837 @@
+<!DOCTYPE html>
+<html lang="zxx">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="IT Solutions &amp; Business Services Responsive HTML5 Bootstrap5  Website Template"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+    <!-- fav icon -->
+    <link rel="icon" href="assets/images/fav-icon/fav-icon.png" />
+
+    <!-- bootstarp -->
+    <link rel="stylesheet" href="css/vendors/bootstrap.min.css" />
+
+    <!-- animate.css file -->
+    <link rel="stylesheet" href="css/vendors/animate.css" />
+
+    <!-- Swiper -->
+    <link rel="stylesheet" href="css/vendors/swiper-bundle.min.css" />
+
+    <!-- flaticon -->
+    <link rel="stylesheet" href="css/vendors/flaticon/flaticon.css" />
+
+    <!-- fontAwesome -->
+    <link rel="stylesheet" href="css/vendors/all.min.css" />
+
+    <!-- bootstrap icons -->
+    <link
+      rel="stylesheet"
+      href="css/vendors/bootstrap-icons-1.9.1/bootstrap-icons.css"
+    />
+
+    <!-- Fancybox -->
+    <link rel="stylesheet" href="css/vendors/jquery.fancybox.min.css" />
+
+    <!-- fonts site preconnect -->
+    <link rel="preconnect" href="https://fonts.googleapis.com/" />
+
+    <!-- fonts site preconnect -->
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
+
+    <!-- Font Family -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700;800&amp;display=swap"
+    />
+
+    <!-- main-LTR -->
+    <link rel="stylesheet" href="css/main-LTR.css" />
+    <title>Metassure &#8211; Blockchain base data-exchange marketplace</title>
+  </head>
+  <body class="dark-theme">
+   <?php  include("header.php"); ?>
+<?php include("slider.php"); ?>
+   
+
+
+    <!-- Start  services Section-->
+    <section class="services services-boxed mega-section" id="services">
+      <div class="container">
+        <div class="sec-heading">
+          <div class="content-area">
+            <span class="pre-title wow fadeInUp" data-wow-delay=".2s"
+              >Products</span
+            >
+            <h2 class="title wow fadeInUp" data-wow-delay=".4s">
+              <span class="hollow-text">Our</span> Products
+            </h2>
+            <p class="subtitle wow fadeInUp" data-wow-delay=".6s">
+              Metassure Transforming Ideas into Technology
+              <br />Simplifying Complexity, Amplifying Efficiency.
+            </p>
+          </div>
+          <!-- <div class="cta-area wow fadeInUp" data-wow-delay=".8s">
+            <a class="cta-btn btn-solid"
+              >see all services <i class="bi bi-arrow-right icon"></i
+            ></a>
+          </div> -->
+        </div>
+        <div class="row gx-4 gy-4 services-row text-center">
+          <div class="col-12 col-md-6 col-lg-3 mx-auto">
+            <!--Start First service box-->
+            <div
+              class="box service-box wow fadeInUp reveal-start"
+              data-wow-offset="0"
+              data-wow-delay=".1s"
+            >
+              <div class="service-icon">
+                <i class="flaticon-web-development font-icon"></i>
+              </div>
+              <span class="service-num hollow-text">1 </span>
+              <div class="service-content">
+                <h3 class="service-title">AdNetwork</h3>
+                <p class="service-text">
+                  Lorem ipsum dolor sit amet consecltetur adipisicing elit.
+                  Omnis tempore perfe rendis explicabo.
+                </p>
+              </div>
+              <a class="read-more" href="service-single.html"
+                >read more<i class="bi bi-arrow-right icon"></i
+              ></a>
+            </div>
+            <!-- End First service box   -->
+          </div>
+          <div class="col-12 col-md-6 col-lg-3 mx-auto">
+            <!--Start Second service box-->
+            <div
+              class="box service-box wow fadeInUp reveal-start"
+              data-wow-offset="0"
+              data-wow-delay=".2s"
+            >
+              <div class="service-icon">
+                <i class="flaticon-nanotechnology font-icon"></i>
+              </div>
+              <span class="service-num hollow-text">2 </span>
+              <div class="service-content">
+                <h3 class="service-title">Metaassure</h3>
+                <p class="service-text">
+                  Lorem ipsum dolor sit amet consecltetur adipisicing elit.
+                  Omnis tempore perfe rendis explicabo.
+                </p>
+              </div>
+              <a class="read-more" href="service-single.html"
+                >read more<i class="bi bi-arrow-right icon"></i
+              ></a>
+            </div>
+            <!-- End Second service box-->
+          </div>
+          <div class="col-12 col-md-6 col-lg-3 mx-auto">
+            <!--Start Third service box-->
+            <div
+              class="box service-box wow fadeInUp reveal-start"
+              data-wow-offset="0"
+              data-wow-delay=".3s"
+            >
+              <div class="service-icon">
+                <i class="flaticon-web-domain font-icon"></i>
+              </div>
+              <span class="service-num hollow-text">3 </span>
+              <div class="service-content">
+                <h3 class="service-title">Metassure KYC</h3>
+                <p class="service-text">
+                  Lorem ipsum dolor sit amet consecltetur adipisicing elit.
+                  Omnis tempore perfe rendis explicabo.
+                </p>
+              </div>
+              <a class="read-more" href="service-single.html"
+                >read more<i class="bi bi-arrow-right icon"></i
+              ></a>
+            </div>
+            <!-- End Third service box-->
+          </div>
+          <div class="col-12 col-md-6 col-lg-3 mx-auto">
+            <!--Start fourth service box-->
+            <div
+              class="box service-box wow fadeInUp reveal-start"
+              data-wow-offset="0"
+              data-wow-delay=".4s"
+            >
+              <div class="service-icon">
+                <i class="flaticon-profile font-icon"></i>
+              </div>
+              <span class="service-num hollow-text">4 </span>
+              <div class="service-content">
+                <h3 class="service-title">Dolphinchat</h3>
+                <p class="service-text">
+                  Lorem ipsum dolor sit amet consecltetur adipisicing elit.
+                  Omnis tempore perfe rendis explicabo.
+                </p>
+              </div>
+              <a class="read-more" href="https://dolphinchat.ai/"
+                >read more<i class="bi bi-arrow-right icon"></i
+              ></a>
+            </div>
+            <!-- End fourth service box   -->
+          </div>
+          
+        </div>
+      </div>
+    </section>
+    <!-- End  services Section-->
+
+  <!-- Start  services Section-->
+  <section class="services services-boxed mega-section" id="services">
+    <div class="container">
+      <div class="sec-heading">
+        <div class="content-area">
+          <span class="pre-title wow fadeInUp" data-wow-delay=".2s"
+            >Industry</span
+          >
+          <h2 class="title wow fadeInUp" data-wow-delay=".4s">
+            <span class="hollow-text">Industries</span> We Cover
+          </h2>
+          <p class="subtitle wow fadeInUp" data-wow-delay=".6s">
+            Our platform provides solutions for companies in multiple sectors, </br> including telecom, travel, banking, education, health and insurance
+            
+          </p>
+        </div>
+        <!-- <div class="cta-area wow fadeInUp" data-wow-delay=".8s">
+          <a class="cta-btn btn-solid"
+            >see all services <i class="bi bi-arrow-right icon"></i
+          ></a>
+        </div> -->
+      </div>
+      <div class="row gx-4 gy-4 services-row text-center">
+        <div class="col-12 col-md-6 col-lg-4 mx-auto">
+          <!--Start First service box-->
+          <div
+            class="box service-box wow fadeInUp reveal-start"
+            data-wow-offset="0"
+            data-wow-delay=".1s"
+          >
+            <div class="service-icon">
+              <i class="flaticon-phone-call font-icon"></i>
+            </div>
+            <span class="service-num hollow-text">1 </span>
+            <div class="service-content">
+              <h3 class="service-title">Telecom</h3>
+              <p class="service-text">
+                Lorem ipsum dolor sit amet consecltetur adipisicing elit.
+                Omnis tempore perfe rendis explicabo.
+              </p>
+            </div>
+            <!-- <a class="read-more" href="service-single.html"
+              >read more<i class="bi bi-arrow-right icon"></i
+            ></a> -->
+          </div>
+          <!-- End First service box   -->
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 mx-auto">
+          <!--Start Second service box-->
+          <div
+            class="box service-box wow fadeInUp reveal-start"
+            data-wow-offset="0"
+            data-wow-delay=".2s"
+          >
+            <div class="service-icon">
+              <i class="flaticon-travel font-icon"></i>
+            </div>
+            <span class="service-num hollow-text">2 </span>
+            <div class="service-content">
+              <h3 class="service-title">Travel</h3>
+              <p class="service-text">
+                Lorem ipsum dolor sit amet consecltetur adipisicing elit.
+                Omnis tempore perfe rendis explicabo.
+              </p>
+            </div>
+            <!-- <a class="read-more" href="service-single.html"
+              >read more<i class="bi bi-arrow-right icon"></i
+            ></a> -->
+          </div>
+          <!-- End Second service box-->
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 mx-auto">
+          <!--Start Third service box-->
+          <div
+            class="box service-box wow fadeInUp reveal-start"
+            data-wow-offset="0"
+            data-wow-delay=".3s"
+          >
+            <div class="service-icon">
+              <i class="flaticon-salary font-icon"></i>
+            </div>
+            <span class="service-num hollow-text">3 </span>
+            <div class="service-content">
+              <h3 class="service-title">Banking</h3>
+              <p class="service-text">
+                Lorem ipsum dolor sit amet consecltetur adipisicing elit.
+                Omnis tempore perfe rendis explicabo.
+              </p>
+            </div>
+            <!-- <a class="read-more" href="service-single.html"
+              >read more<i class="bi bi-arrow-right icon"></i
+            ></a> -->
+          </div>
+          <!-- End Third service box-->
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 mx-auto">
+          <!--Start fourth service box-->
+          <div
+            class="box service-box wow fadeInUp reveal-start"
+            data-wow-offset="0"
+            data-wow-delay=".4s"
+          >
+            <div class="service-icon">
+              <i class="flaticon-handshake font-icon"></i>
+            </div>
+            <span class="service-num hollow-text">4 </span>
+            <div class="service-content">
+              <h3 class="service-title">Insurance</h3>
+              <p class="service-text">
+                Lorem ipsum dolor sit amet consecltetur adipisicing elit.
+                Omnis tempore perfe rendis explicabo.
+              </p>
+            </div>
+            <!-- <a class="read-more" href="service-single.html"
+              >read more<i class="bi bi-arrow-right icon"></i
+            ></a> -->
+          </div>
+          <!-- End fourth service box   -->
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 mx-auto">
+          <!--Start 5th service box-->
+          <div
+            class="box service-box wow fadeInUp reveal-start"
+            data-wow-offset="0"
+            data-wow-delay=".5s"
+          >
+            <div class="service-icon">
+              <i class="flaticon-heart font-icon"></i>
+            </div>
+            <span class="service-num hollow-text">5 </span>
+            <div class="service-content">
+              <h3 class="service-title">Health</h3>
+              <p class="service-text">
+                Lorem ipsum dolor sit amet consecltetur adipisicing elit.
+                Omnis tempore perfe rendis explicabo.
+              </p>
+            </div>
+            <!-- <a class="read-more" href="service-single.html"
+              >read more<i class="bi bi-arrow-right icon"></i
+            ></a> -->
+          </div>
+          <!-- End 5th service box-->
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 mx-auto">
+          <!--Start 6th service box-->
+          <div
+            class="box service-box wow fadeInUp reveal-start"
+            data-wow-offset="0"
+            data-wow-delay=".6s"
+          >
+            <div class="service-icon">
+              <i class="flaticon-graduated font-icon"></i>
+            </div>
+            <span class="service-num hollow-text">6 </span>
+            <div class="service-content">
+              <h3 class="service-title">Educational</h3>
+              <p class="service-text">
+                Lorem ipsum dolor sit amet consecltetur adipisicing elit.
+                Omnis tempore perfe rendis explicabo.
+              </p>
+            </div>
+            <!-- <a class="read-more" href="service-single.html"
+              >read more<i class="bi bi-arrow-right icon"></i
+            ></a> -->
+          </div>
+          <!-- End 6th service box-->
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End  services Section-->
+
+  
+    <section class="about mega-section" id="about">
+      <div class="container">
+        <!-- Start first about div-->
+        <div class="content-block  ">
+          <div class="row">
+            <div class="col-12 col-lg-6 d-flex align-items-center order-1 order-lg-0 about-col pad-end  wow fadeInUp" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+              <div class="text-area ">
+                <div class="sec-heading  light-title ">
+                  <div class="content-area"><span class="pre-title       wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">about Us</span>
+                    <h2 class="title    wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;"><span class="hollow-text">trusted</span> by worldwide clients  since<span class="featured-text">  1980. <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path d="M7.7,145.6C109,125,299.9,116.2,401,121.3c42.1,2.2,87.6,11.8,87.3,25.7"></path></svg></span></h2>
+                  </div>
+                </div>
+                <p class=" about-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. A officia molestiae dolorum tempora ut accusamus cupiditate! Nesciunt tempora reiciendis libero voluptate!</p>
+                <div class="info-items-list ">
+                  <div class="row ">
+                    <div class="col-9 col-xl-6">
+                      <div class="info-item"><i class="flaticon-medal  info-icon"></i>
+                        <div class="info-content">
+                          <h5 class="info-title">first on field </h5>
+                          <p class="info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, iste</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-9 col-xl-6">
+                      <div class="info-item"><i class="flaticon-game-console info-icon"></i>
+                        <div class="info-content">
+                          <h5 class="info-title">easy to reach </h5>
+                          <p class="info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, iste</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-9 col-xl-6">
+                      <div class="info-item"><i class="flaticon-map info-icon"></i>
+                        <div class="info-content">
+                          <h5 class="info-title">worldwide services  </h5>
+                          <p class="info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, iste</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-9 col-xl-6">
+                      <div class="info-item"><i class="flaticon-technical-support-1  info-icon"></i>
+                        <div class="info-content">
+                          <h5 class="info-title">24/7 support  </h5>
+                          <p class="info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, iste</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="cta-area"><a class=" btn-solid reveal-start" href="about-us.html">Get in touch</a>
+                  <div class="signature ">
+                    <div class="signature-img"></div>
+                    <div class="signature-name">CEO &amp; Founder </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-lg-6 d-flex align-items-center order-0 order-lg-1 about-col  wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+              <div class="img-area  " data-tilt="" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
+                <div class="image   "><img class="about-img img-fluid " loading="lazy" src="assets/images/about/photo-1.png" alt="Our vision"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--End first about div-->
+        <!-- Start first about div-->
+        <div class="content-block  ">
+          <div class="row">
+            <div class="col-12 col-lg-6 d-flex align-items-center about-col  wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+              <div class="img-area  ">
+                <div class="image  " data-tilt="" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);"><img class="about-img img-fluid " loading="lazy" src="assets/images/about/photo-2.png" alt="about"></div>
+              </div>
+            </div>
+            <div class="col-12 col-lg-6 d-flex align-items-center about-col pad-start  wow fadeInUp" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+              <div class="text-area ">
+                <div class="sec-heading  light-title ">
+                  <div class="content-area"><span class="pre-title       wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">why choose us</span>
+                    <h2 class="title    wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">Why our <span class="hollow-text"> customers</span>  choose <span class="featured-text">working <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path d="M7.7,145.6C109,125,299.9,116.2,401,121.3c42.1,2.2,87.6,11.8,87.3,25.7"></path></svg></span> with us</h2>
+                  </div>
+                </div>
+                <p class=" about-text">Explore the reasons customers prefer collaborating with us from top-notch quality to personalized services. Elevate your experience, choose a collaboration that resonates with excellence!</p>
+                <div class="info-items-list">
+                  <div class="row ">
+                    <div class="col-12 ">
+                      <div class="info-item"><span class="info-number ">01.</span>
+                        <div class="info-content">
+                          <h5 class="info-title">Customer Support </h5>
+                          <p class="info-text">Responsive and dedicated customer support to address any issues promptly and efficiently.</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-12 ">
+                      <div class="info-item"><span class="info-number ">02.</span>
+                        <div class="info-content">
+                          <h5 class="info-title">Scalability </h5>
+                          <p class="info-text">Solutions designed to grow with your business, ensuring scalability and adaptability.</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-12 ">
+                      <div class="info-item"><span class="info-number ">03.</span>
+                        <div class="info-content">
+                          <h5 class="info-title">Security </h5>
+                          <p class="info-text">Implement robust security measures to safeguard sensitive data and ensure the highest level of protection.</p>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-12 ">
+                      <div class="info-item"><span class="info-number ">04.</span>
+                        <div class="info-content">
+                          <h5 class="info-title">Global Reach </h5>
+                          <p class="info-text">The ability to serve clients on an international scale.</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+               
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--End first about div-->
+      </div>
+    </section>
+
+
+    
+
+<!-- Start  stats Section-->
+
+<section class="stats js-stats-counter mega-section">
+  <div class="overlay-photo-image-bg" data-bg-img="assets/images/sections-bg-images/pattern-bg-3.jpg" data-bg-opacity=".2" style="background-image: url(&quot;assets/images/sections-bg-images/pattern-bg-3.jpg&quot;); opacity: 0.2;"></div>
+  <div class="container">
+    <div class="stats-inner">
+      <div class="row ">
+        <!--Info One-->
+        <div class="col-12 col-md-6 col-lg-3 stat-box ">
+          <div class="stat-box-inner  " data-tilt="data-tilt" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);"><i class="flaticon-project-management stat-icon"></i>
+            <p class="stat-num "><span class="counter" data-from="10" data-to="750" data-speed="3000" data-refresh-interval="50">750</span><span class="sign">+</span></p><span class="stat-desc">finished projects</span>
+          </div>
+        </div>
+        <!--Info Two-->
+        <div class="col-12 col-md-6 col-lg-3 stat-box ">
+          <div class="stat-box-inner  " data-tilt="data-tilt" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);"><i class="flaticon-content-management stat-icon"></i>
+            <p class="stat-num "><span class="counter" data-from="0" data-to="23" data-speed="3000" data-refresh-interval="50">23</span><span class="sign">+</span></p><span class="stat-desc">Created jobs</span>
+          </div>
+        </div>
+        <!--Info Three-->
+        <div class="col-12 col-md-6 col-lg-3 stat-box ">
+          <div class="stat-box-inner  " data-tilt="data-tilt" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);"><i class="flaticon-user stat-icon"></i>
+            <p class="stat-num "><span class="counter" data-from="0" data-to="200" data-speed="3000" data-refresh-interval="50">200</span><span class="sign">+</span></p><span class="stat-desc">happy customers</span>
+          </div>
+        </div>
+        <!--Info Four-->
+        <div class="col-12 col-md-6 col-lg-3 stat-box ">
+          <div class="stat-box-inner  " data-tilt="data-tilt" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);"><i class="flaticon-aim stat-icon"></i>
+            <p class="stat-num "><span class="counter" data-from="0" data-to="28" data-speed="3000" data-refresh-interval="50">28</span><span class="sign">+</span></p><span class="stat-desc">years Of exprience</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End  stats Section-->
+
+
+
+
+    <!-- Start  portfolio-slider Section-->
+    <section class="portfolio portfolio-blocks mega-section" id="portfolio">
+      <div class="container">
+        <div class="sec-heading">
+          <div class="content-area">
+            <span class="pre-title wow fadeInUp" data-wow-delay=".2s"
+              >portfolio</span
+            >
+            <h2 class="title wow fadeInUp" data-wow-delay=".4s">
+              Awesome <span class="hollow-text">portfolio</span>
+            </h2>
+          </div>
+          <div class="cta-area wow fadeInUp" data-wow-delay=".8s">
+            <a class="cta-btn btn-solid" href="portfolio.php"
+              >see more <i class="bi bi-arrow-right icon"></i
+            ></a>
+          </div>
+        </div>
+        <div class="portfolio-wrapper">
+          <!--a menu of links to show the photos users needs   -->
+          <ul class="portfolio-btn-list wow fadeInUp" data-wow-delay=".2s">
+            <li class="portfolio-btn active" data-filter="*">All</li>
+            <li class="portfolio-btn" data-filter=".mobile">mobile apps</li>
+            <li class="portfolio-btn" data-filter=".web">cloud</li>
+            <li class="portfolio-btn" data-filter=".data">data analaysis</li>
+            <li class="portfolio-btn" data-filter=".hosting">hosting</li>
+          </ul>
+          <div class="portfolio-group wow fadeIn" data-wow-delay=".4s">
+            <div class="row">
+              <div class="col-12 col-md-6 col-lg-4 portfolio-item mobile">
+                <div class="item">
+                  <a class="portfolio-img-link" href="portfolio-single.html"
+                    ><img
+                      class="portfolio-img img-fluid"
+                      loading="lazy"
+                      src="assets/images/portfolio/1.jpg"
+                      alt="portfolio item photo"
+                  /></a>
+                  <div class="item-info">
+                    <h3 class="item-title">mobile apps</h3>
+                    <i class="bi bi-arrow-right icon"></i>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-6 col-lg-4 portfolio-item web">
+                <div class="item">
+                  <a class="portfolio-img-link" href="portfolio-single.html"
+                    ><img
+                      class="portfolio-img img-fluid"
+                      loading="lazy"
+                      src="assets/images/portfolio/2.jpg"
+                      alt="portfolio item photo"
+                  /></a>
+                  <div class="item-info">
+                    <h3 class="item-title">cloud</h3>
+                    <i class="bi bi-arrow-right icon"></i>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-6 col-lg-4 portfolio-item data">
+                <div class="item">
+                  <a class="portfolio-img-link" href="portfolio-single.html"
+                    ><img
+                      class="portfolio-img img-fluid"
+                      loading="lazy"
+                      src="assets/images/portfolio/3.jpg"
+                      alt="portfolio item photo"
+                  /></a>
+                  <div class="item-info">
+                    <h3 class="item-title">data analaysis</h3>
+                    <i class="bi bi-arrow-right icon"></i>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-6 col-lg-4 portfolio-item mobile">
+                <div class="item">
+                  <a class="portfolio-img-link" href="portfolio-single.html"
+                    ><img
+                      class="portfolio-img img-fluid"
+                      loading="lazy"
+                      src="assets/images/portfolio/4.jpg"
+                      alt="portfolio item photo"
+                  /></a>
+                  <div class="item-info">
+                    <h3 class="item-title">hosting</h3>
+                    <i class="bi bi-arrow-right icon"></i>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-6 col-lg-4 portfolio-item hosting">
+                <div class="item">
+                  <a class="portfolio-img-link" href="portfolio-single.html"
+                    ><img
+                      class="portfolio-img img-fluid"
+                      loading="lazy"
+                      src="assets/images/portfolio/5.jpg"
+                      alt="portfolio item photo"
+                  /></a>
+                  <div class="item-info">
+                    <h3 class="item-title">SEO</h3>
+                    <i class="bi bi-arrow-right icon"></i>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-6 col-lg-4 portfolio-item mobile">
+                <div class="item">
+                  <a class="portfolio-img-link" href="portfolio-single.html"
+                    ><img
+                      class="portfolio-img img-fluid"
+                      loading="lazy"
+                      src="assets/images/portfolio/6.jpg"
+                      alt="portfolio item photo"
+                  /></a>
+                  <div class="item-info">
+                    <h3 class="item-title">other category</h3>
+                    <i class="bi bi-arrow-right icon"></i>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End  portfolio-slider Section-->
+   
+    <!-- Start  our-clients Section-->
+    <?php include("our-clients.php");?>
+  
+    <!-- End  our-clients Section-->
+
+    <!-- Start  testimonials Section-->
+    <?php include("testmonials.php");?>
+  
+    <!-- End  testimonials Section-->
+    <!-- Start  blog Section-->
+    <!-- <section class="blog blog-home mega-section" id="blog">
+      <div class="container">
+        <div class="sec-heading">
+          <div class="content-area">
+            <span class="pre-title wow fadeInUp" data-wow-delay=".2s"
+              >blog</span
+            >
+            <h2 class="title wow fadeInUp" data-wow-delay=".4s">
+              latest <span class="hollow-text">news</span>
+            </h2>
+          </div>
+          <div class="cta-area cta-area wow fadeInUp" data-wow-delay=".8s">
+            <a
+              class="cta-btn btn-solid cta-btn btn-solid"
+              href="blog-home-3-col.html"
+              >see all posts<i class="bi bi-arrow-right icon"></i
+            ></a>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <div class="posts-grid">
+              <div class="row">
+                <div class="col-12 col-lg-4">
+                  <div class="post-box">
+                    <a
+                      class="post-link"
+                      href="post-single.html"
+                      title="How litespeed technology works to speed up your site "
+                    >
+                      <div class="post-img-wrapper">
+                        <img
+                          class="parallax-img post-img"
+                          loading="lazy"
+                          src="assets/images/blog/post-images/1.jpg"
+                          alt=""
+                        /><span class="post-date"
+                          ><span class="day">05 </span>oct 2022
+                        </span>
+                      </div></a
+                    >
+                    <div class="post-summary">
+                      <div class="post-info">
+                        <a class="info post-cat" href="#">
+                          <i class="bi bi-bookmark icon"></i>hosting</a
+                        ><a class="info post-author" href="#">
+                          <i class="bi bi-person icon"></i>Allan Moore</a
+                        >
+                      </div>
+                      <div class="post-text">
+                        <a class="post-link" href="post-single.html">
+                          <h2 class="post-title">
+                            How litespeed technology works to speed up your site
+                          </h2></a
+                        >
+                        <p class="post-excerpt">
+                          Lorem ipsum dolor sit, amet consectetur adipisicing
+                          elit.Iure nulla dolorem, voluptates molestiae
+                        </p>
+                        <a
+                          class="read-more"
+                          href="post-single.html"
+                          title="How litespeed technology works to speed up your site "
+                          >read more<i class="bi bi-arrow-right icon"></i
+                        ></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12 col-lg-4">
+                  <div class="post-box">
+                    <a
+                      class="post-link"
+                      href="post-single.html"
+                      title="give your website a new look and feel with themes"
+                    >
+                      <div class="post-img-wrapper">
+                        <img
+                          class="parallax-img post-img"
+                          loading="lazy"
+                          src="assets/images/blog/post-images/2.jpg"
+                          alt=""
+                        /><span class="post-date"
+                          ><span class="day">15 </span>sep 2022
+                        </span>
+                      </div></a
+                    >
+                    <div class="post-summary">
+                      <div class="post-info">
+                        <a class="info post-cat" href="#">
+                          <i class="bi bi-bookmark icon"></i>web dev</a
+                        ><a class="info post-author" href="#">
+                          <i class="bi bi-person icon"></i>mhmd amin</a
+                        >
+                      </div>
+                      <div class="post-text">
+                        <a class="post-link" href="post-single.html">
+                          <h2 class="post-title">
+                            give your website a new look and feel with themes
+                          </h2></a
+                        >
+                        <p class="post-excerpt">
+                          Lorem ipsum dolor sit, amet consectetur adipisicing
+                          elit.Iure nulla dolorem, voluptates molestiae
+                        </p>
+                        <a
+                          class="read-more"
+                          href="post-single.html"
+                          title="give your website a new look and feel with themes"
+                          >read more<i class="bi bi-arrow-right icon"></i
+                        ></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12 col-lg-4">
+                  <div class="post-box">
+                    <a
+                      class="post-link"
+                      href="post-single.html"
+                      title="the role of domain names in SEO world explained "
+                    >
+                      <div class="post-img-wrapper">
+                        <img
+                          class="parallax-img post-img"
+                          loading="lazy"
+                          src="assets/images/blog/post-images/3.jpg"
+                          alt=""
+                        /><span class="post-date"
+                          ><span class="day">27 </span>aug 2022
+                        </span>
+                      </div></a
+                    >
+                    <div class="post-summary">
+                      <div class="post-info">
+                        <a class="info post-cat" href="#">
+                          <i class="bi bi-bookmark icon"></i>SEO</a
+                        ><a class="info post-author" href="#">
+                          <i class="bi bi-person icon"></i>yusuf amin</a
+                        >
+                      </div>
+                      <div class="post-text">
+                        <a class="post-link" href="post-single.html">
+                          <h2 class="post-title">
+                            the role of domain names in SEO world explained
+                          </h2></a
+                        >
+                        <p class="post-excerpt">
+                          Lorem ipsum dolor sit, amet consectetur adipisicing
+                          elit.Iure nulla dolorem, voluptates molestiae
+                        </p>
+                        <a
+                          class="read-more"
+                          href="post-single.html"
+                          title="the role of domain names in SEO world explained "
+                          >read more<i class="bi bi-arrow-right icon"></i
+                        ></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section> -->
+    <!-- End  blog Section-->
+    <!-- Start  page-footer Section-->
+  <?php include("footer.php"); ?>
+    <!-- End  page-footer Section-->
+  </body>
+</html>
