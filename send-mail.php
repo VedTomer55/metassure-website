@@ -13,7 +13,7 @@ $subject = $_POST['subject'];
 $message = $_POST['message']; 
 
 // Recipient's email address
-$recipientEmail = "vedtomer@gmail.com";
+$recipientEmail = "insurance.support@verismart.ai";
 
 // Create a PHPMailer object
 $mail = new PHPMailer(true);
@@ -22,15 +22,15 @@ try {
     // SMTP server settings
     $mail->SMTPDebug = 2; // Set to 2 for debugging
     $mail->isSMTP();
-    $mail->Host = 'smtp.hostinger.com'; // Replace with your SMTP server
+    $mail->Host = 'smtp.gmail.com'; // Replace with your SMTP server
     $mail->SMTPAuth = true;
-    $mail->Username = 'help@namastebaba.com'; // Replace with your SMTP username
-    $mail->Password = 'Ved@5592'; // Replace with your SMTP password
-    $mail->SMTPSecure = 'tls'; // Use 'tls' or 'ssl' depending on your server configuration
-    $mail->Port = 587; // Change to the appropriate SMTP port
+    $mail->Username = 'insurance.support@verismart.ai'; // Replace with your SMTP username
+    $mail->Password = 'ihltfgyshudohzsx'; // Replace with your SMTP password
+    $mail->SMTPSecure = 'ssl'; // Use 'tls' or 'ssl' depending on your server configuration
+    $mail->Port = 465; // Change to the appropriate SMTP port
 
     // Sender information
-    $mail->setFrom("help@namastebaba.com", $userName);
+    $mail->setFrom("insurance.support@verismart.ai");
 
     // Recipient
     $mail->addAddress($recipientEmail);
