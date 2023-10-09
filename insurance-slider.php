@@ -22,7 +22,7 @@
                  </div>
                </div>
                <div class="col-12">
-                 <div class="pre-title">Seamless Fastag-Based Insurance in Just a Few Clicks</div>
+                 <div class="pre-title">Seamless Fastag-Based Insurance </div>
                </div>
                <div class="col-12 col-md-8 col-lg-7">
                  <h1 class="slide-title">
@@ -53,7 +53,7 @@
              <div class="row">
 
                <div class="col-12">
-                 <div class="pre-title">Blockchain-Powered Security for Your Peace of Mind</div>
+                 <div class="pre-title">Blockchain-Powered Security </div>
                </div>
                <div class="col-12 col-md-8 col-lg-7">
                  <h1 class="slide-title">

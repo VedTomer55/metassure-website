@@ -15,12 +15,14 @@
               </p>
             </div>
             <div class="form-area">
-              <div class="mailchimp-form">
-                <form class="one-field-form" method="post" action="#0">
+              <div class="subscribe-form-area">
+                <form class="one-field-form" method="post" action="insert.php" id="Subscribe-form">
                   <div class="field-group">
                     <label class="email-label" for="email-input">
                       Subscribe to our news letter</label
                     >
+                   
+                    <span class="b-border"></span><span class="error-msg"></span>   <span class="done-msg"></span>
                     <input
                       class="email-input"
                       type="email"
@@ -29,17 +31,18 @@
                       id="email-input"
                       placeholder="Email Address"
                       autocomplete="off"
-                    />
+                    /> 
+                    
                     <div class="cta-area">
-                      <input
-                        class="btn-solid subscribe-btn"
-                        type="submit"
-                        value="Subscribe"
-                        name="subscribe"
-                      />
+                      <button class="btn-solid subscribe-btn" id="subscribe-btn" type="submit" name="UserSubmit">
+                      subscribe
+                        </button>
                     </div>
+                     
+                   
                   </div>
-                  <span class="email-notice"
+                                                                            
+                  <span an class="email-notice"
                     >*we will not share your personal info</span
                   >
                 </form>
@@ -52,7 +55,7 @@
               <ul class="footer-menu">
                 <li class="footer-menu-item">
                   <i class="bi bi-arrow-right icon"></i
-                  ><a class="footer-menu-link" href="https://kyc.Metassure.ai/"
+                  ><a class="footer-menu-link" href="#"
                     >AdNetwork</a
                   >
                 </li>
@@ -60,14 +63,14 @@
                   <i class="bi bi-arrow-right icon"></i
                   ><a
                     class="footer-menu-link"
-                    href="https://Metassure.ai/data-exchange/"
+                    href="#"
                     >Metaassure</a
                   >
                 </li>
                 <li class="footer-menu-item">
                   <i class="bi bi-arrow-right icon"></i
-                  ><a class="footer-menu-link" href="https://dev.metassure.ai/"
-                    >Metassure </a
+                  ><a class="footer-menu-link" href="#"
+                    >VerismartKYC </a
                   >
                 </li>
                 <li class="footer-menu-item">
@@ -87,7 +90,7 @@
                   <i class="bi bi-arrow-right icon"></i
                   ><a
                     class="footer-menu-link"
-                    href="https://Metassure.ai/dolphinchat-bot/"
+                    href="#"
                     >DolphinChat.Bot</a
                   >
                 </li>
@@ -95,7 +98,7 @@
                   <i class="bi bi-arrow-right icon"></i
                   ><a
                     class="footer-menu-link"
-                    href="https://Metassure.ai/dolphinchat-live/"
+                    href="#"
                     >DolphinChat.Live</a
                   >
                 </li>
@@ -103,7 +106,7 @@
                   <i class="bi bi-arrow-right icon"></i
                   ><a
                     class="footer-menu-link"
-                    href="https://Metassure.ai/conversational-banking/"
+                    href="#"
                     >Conversational Banking</a
                   >
                 </li>
@@ -111,7 +114,7 @@
                   <i class="bi bi-arrow-right icon"></i
                   ><a
                     class="footer-menu-link"
-                    href="https://Metassure.ai/conversational-commerce/"
+                    href="#"
                     >Conversational Commerce</a
                   >
                 </li>
@@ -147,16 +150,16 @@
                       <li class="sc-item" title="Facebook">
                         <a
                           class="sc-link"
-                          href="https://Metassure.ai/news-and-events/#"
+                          href="https://www.facebook.com/verismartai"
                           title="social media icon"
                           ><i class="fab fa-facebook-f sc-icon"></i
                         ></a>
                       </li>
-                      <li class="sc-item" title="youtube">
+                      <!-- <li class="sc-item" title="youtube">
                         <a class="sc-link" href="#0" title="social media icon"
                           ><i class="fab fa-youtube sc-icon"></i
                         ></a>
-                      </li>
+                      </li> -->
                       <li class="sc-item" title="instagram">
                         <a
                           class="sc-link"
@@ -165,11 +168,11 @@
                           ><i class="fab fa-linkedin-in sc-icon"></i>
                         </a>
                       </li>
-                      <li class="sc-item" title="twitter">
+                      <!-- <li class="sc-item" title="twitter">
                         <a class="sc-link" href="" title="social media icon"
                           ><i class="fab fa-twitter sc-icon"></i
                         ></a>
-                      </li>
+                      </li> -->
                     </ul>
                   </div>
                 </div>
@@ -189,7 +192,7 @@
                 | All Rights Reserved
               </p>
             </div>
-            <div class="col-12 col-md-6 d-flex justify-content-end">
+            <!-- <div class="col-12 col-md-6 d-flex justify-content-end">
               <div class="terms-links">
                 <a href="#0"
                  data-bs-toggle="modal"
@@ -202,7 +205,7 @@
                   >Privacy Policy.</a
                 >
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>

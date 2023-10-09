@@ -1158,6 +1158,16 @@ body.rounded-btns .read-more {
   top: -30px;
   color: var(--clr-main);
 }
+.subscribe-form-area .error-msg {
+ 
+  right: 1rem;
+  top: 0;
+ 
+  font-size: 0.85rem;
+  color: var(--clr-danger);
+  display: none;
+}
+
 .custom-form-area .error-msg {
   position: absolute;
   right: 1rem;
@@ -1167,6 +1177,10 @@ body.rounded-btns .read-more {
   color: var(--clr-danger);
   display: none;
 }
+
+
+
+
 .custom-form-area .done-msg {
   position: absolute;
   right: 1rem;

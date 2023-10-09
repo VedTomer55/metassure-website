@@ -37,7 +37,7 @@
 
     <!-- main-LTR -->
     <link rel="stylesheet" href="css/main-LTR.css">
-    <title> flex-IT | Portfolio</title>
+    <title> Metassure | Portfolio</title>
 </head>
 
 <body class=" dark-theme ">
@@ -130,24 +130,26 @@
     </section>
     <!-- End  portfolio Section-->
     <!-- Start  testimonials Section-->
-    <?php include("testmonials.php"); ?>
+    <?php 
+    // include("testmonials.php");
+     ?>
     <!-- End  testimonials Section-->
     <!-- Start  our-clients Section-->
     <?php include("our-clients.php"); ?>
     <!-- End  our-clients Section-->
     <!-- Start  take-action Section-->
     <section class="take-action elf-section has-dark-bg" id="take-action">
-        <div class="overlay-photo-image-bg  " data-bg-img="assets/images/sections-bg-images/2.jpg" data-bg-opacity=".25"> </div>
+        <div class="overlay-photo-image-bg" data-bg-img="assets/images/sections-bg-images/pattern-bg-3.jpg" data-bg-opacity=".2" style="background-image: url(&quot;assets/images/sections-bg-images/pattern-bg-3.jpg&quot;); opacity: 0.2;"></div>
         <div class="cta-wrapper">
             <div class="container">
                 <div class="sec-heading  centered mb-0 ">
-                    <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">contact us</span>
-                        <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">get in totch with us</h2>
-                        <p class="subtitle   wow fadeInUp " data-wow-delay=".6s">Lorem ipsum dolor sit amet consectetur adipisicing elit Omnis <br>id atque dignissimos repellat quae ullam.</p>
+                    <div class="content-area"><span class="pre-title       wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">Get a Quote Today</span>
+                        <h2 class="title    wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">get in touch with us</h2>
+                        <p class="subtitle   wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">Protecting your vehicle and yourself on the road is just a few clicks away. Get a free quote today and let us help you find the motor insurance solution that best suits your needs. Drive with confidence knowing that you're covered by Metassure. Your safety and peace of mind are our top priorities:</p>
                     </div>
                 </div>
                 <!--Start .see-more-area-->
-                <div class=" see-more-area wow fadeInUp" data-wow-delay="0.8s"><a class=" btn-solid cta-link" href="contact-us.html">contact us</a></div>
+                <div class="see-more-area wow fadeInUp" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;"><a class=" btn-solid cta-link" href="contact-us.php">Contact us now to get started!</a></div>
                 <!--End Of .see-more-area        -->
             </div>
         </div>

@@ -40,13 +40,13 @@
                  <a class="menu-link sub-menu-link" href="about-us.php">about us</a>
                </li>
 
-               <li class="menu-item sub-menu-item">
+               <!-- <li class="menu-item sub-menu-item">
                  <a class="menu-link sub-menu-link" href="https://Metassure.ai/blogs/">blog</a>
-               </li>
+               </li> -->
 
-               <li class="menu-item sub-menu-item">
+               <!-- <li class="menu-item sub-menu-item">
                  <a class="menu-link sub-menu-link" href="our-team.php">Our team</a>
-               </li>
+               </li> -->
 
                <li class="menu-item sub-menu-item">
                  <a class="menu-link sub-menu-link" href="contact-us.php">contact us

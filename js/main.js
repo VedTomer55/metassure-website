@@ -1,6 +1,6 @@
 /*===================================================
-Project: flex-it - IT Solutions & Business Services Responsive HTML5 Bootstrap5  Website Template 
-Auther: amin-themes
+Project: metassure - IT Solutions & Business Services Responsive HTML5 Bootstrap5  Website Template 
+Auther: metassure
 Version: 2.0
 Last change:22 Mar 2023
 Template Description: IT Solutions & Business Services Responsive HTML5 Bootstrap5  Website Template 
@@ -725,4 +725,69 @@ $(function () {
   /* ----------------------------------
     End Vendors plugins options Area 
      ---------------------------------- */
+});
+
+
+
+
+const subscribeForm = $("#Subscribe-form"),
+userEmail = $("#email-input"),
+submitBtn = $("#subscribe-btn");
+
+let isValidInput = false,
+isValidEmail = false;
+
+function ValidateNotEmptyInput(input, errMsg) {
+if (input.length) {
+  if (input.val().trim() === "") {
+    $(input).siblings(".error-msg").text(errMsg).css("display", "block");
+    isValidInput = false;
+  } else {
+    $(input).siblings(".error-msg").text("").css("display", "none");
+    isValidInput = true;
+  }
+}
+}
+
+function validateEmailInput(emailInput) {
+let pattern =
+  /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+
+if (pattern.test(emailInput.val()) === false) {
+  $(emailInput)
+    .siblings(".error-msg")
+    .text("Please Enter a valid Email")
+    .css("display", "block");
+  isValidEmail = false;
+} else {
+  $(emailInput).siblings(".error-msg").text("").css("display", "none");
+  isValidEmail = true;
+}
+}
+
+submitBtn.on("click", function (e) {
+e.preventDefault();
+
+
+ValidateNotEmptyInput(userEmail, "Please Enter Your Email");
+validateEmailInput(userEmail);
+
+if (isValidInput && isValidEmail) {
+  $.ajax({
+    type: "POST",
+    url: subscribeForm.attr("action"),
+    data: subscribeForm.serialize(),
+
+    success: function (data) {
+      $(".done-msg")
+        .html("<br/>Thank You for Subscribing!")
+        .toggleClass("show");
+      setTimeout(function () {
+        $(".done-msg").text("").toggleClass("show");
+      }, 3000);
+      subscribeForm[0].reset();
+    },
+  });
+  return false;
+}
 });

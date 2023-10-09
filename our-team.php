@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="zxx">
-  
-<!-- Mirrored from amincodes.com/html/flex-it/our-team.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Sep 2023 07:12:16 GMT -->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -37,7 +35,7 @@
         
         <!-- main-LTR -->
         <link rel="stylesheet" href="css/main-LTR.css">
-        <title> flex-IT   |   Our Team</title>
+        <title> Metassure   |   Our Team</title>
   </head>
   <body class=" dark-theme ">
     <!--Start Page Header-->

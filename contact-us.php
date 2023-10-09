@@ -166,7 +166,7 @@ North Delhi - 110035
               <div class="contact-form-inputs wow fadeInUp" data-wow-delay=".6s">
                 <div class="custom-form-area input-boxed">
                   <!--Form To have user messages-->
-                  <form class="main-form" id="contact-us-form" action="https://amincodes.com/html/flex-it/php/send-mail.php" method="post">
+                  <form class="main-form" id="contact-us-form" action="send-mail.php" method="post">
                     <span class="done-msg"></span>
                     <div class="row">
                       <div class="col-12 col-lg-6">
