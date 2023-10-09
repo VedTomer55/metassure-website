@@ -430,12 +430,12 @@
         <div class="container">
           <div class="sec-heading  centered mb-0 ">
             <div class="content-area"><span class="pre-title       wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">Get a Quote Today</span>
-              <h2 class="title    wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">get in touch with us</h2>
+              <h2 class="title    wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">Protect Yourself Today</h2>
               <p class="subtitle   wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">Protecting your vehicle and yourself on the road is just a few clicks away. Get a free quote today and let us help you find the motor insurance solution that best suits your needs. Drive with confidence knowing that you're covered by Metassure. Your safety and peace of mind are our top priorities:</p>
             </div>
           </div>
           <!--Start .see-more-area-->
-          <div class="see-more-area wow fadeInUp" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;"><a class=" btn-solid cta-link" href="contact-us.php">Contact us now to get started!</a></div>
+          <div class="see-more-area wow fadeInUp" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;"><a class=" btn-solid cta-link" href="https://wa.me/918448850166?text=renew">Start Your Policy!</a></div>
           <!--End Of .see-more-area        -->
         </div>
       </div>

@@ -3,12 +3,12 @@
    <div class="container">
      <nav class="menu-navbar">
        <div class="header-logo">
-         <a class="logo-link" href="index.php"><img class="logo-img light-logo" loading="lazy" src="assets/images/logo/Metassure-Logo-Final-2.png" alt="logo" /><img class="logo-img dark-logo" loading="lazy" src="assets/images/logo/Metassure-Logo-Final-2.png" alt="logo" /></a>
+         <a class="logo-link" href="/"><img class="logo-img light-logo" loading="lazy" src="assets/images/logo/Metassure-Logo-Final-2.png" alt="logo" /><img class="logo-img dark-logo" loading="lazy" src="assets/images/logo/Metassure-Logo-Final-2.png" alt="logo" /></a>
        </div>
        <div class="links menu-wrapper">
          <ul class="list-js links-list">
            <li class="menu-item">
-             <a class="menu-link " href="index.php">home
+             <a class="menu-link " href="/">home
              </a>
            </li>
 

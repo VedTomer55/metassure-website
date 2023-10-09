@@ -39,6 +39,13 @@
                  </p>
                </div>
 
+               <div class="col-12">
+                 <div class="cta-links-area">
+                   <a class="btn-solid cta-link cta-link-primary" href="https://wa.me/918448850166?text=renew">Start Your Insurance</a>
+
+                 </div>
+               </div>
+
              </div>
            </div>
          </div>
@@ -72,7 +79,7 @@
                </div>
                <div class="col-12">
                  <div class="cta-links-area">
-                   <a class="btn-solid cta-link cta-link-primary" href="contact-us.php">Contact us</a>
+                   <a class="btn-solid cta-link cta-link-primary" href="https://wa.me/918448850166?text=renew">Get Covered Now</a>
 
                  </div>
                </div>
@@ -113,6 +120,12 @@
                  <p class="slide-subtitle">
                    At Metassure, we redefine precision through the sophisticated lens of data analysis. The commitment is not just about providing insurance, it’s about delivering insights, reliability and a future where decisions are powered by data-driven intelligence.
                  </p>
+               </div>
+               <div class="col-12">
+                 <div class="cta-links-area">
+                   <a class="btn-solid cta-link cta-link-primary" href="https://wa.me/918448850166?text=renew">Get Started</a>
+
+                 </div>
                </div>
 
              </div>
