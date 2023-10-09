@@ -12,6 +12,9 @@ $userEmail = $_POST['UserEmail'];
 $subject = $_POST['subject']; 
 $message = $_POST['message']; 
 
+// Page URL
+$pageURL = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"; // Replace with your actual page URL
+
 // Recipient's email address
 $recipientEmail = "insurance.support@verismart.ai";
 
@@ -66,7 +69,7 @@ try {
                     <p>Name: $userName</p>
                     <p>Email: $userEmail</p>
                     <p>Message: $message</p>
-                    
+                    <p>Page URL: <a href='$pageURL'>$pageURL</a></p>
                 </div>
             </div>
         </body>
