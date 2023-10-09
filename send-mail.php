@@ -5,7 +5,7 @@ use PHPMailer\PHPMailer\Exception;
 require 'PHPMailer/src/Exception.php';
 require 'PHPMailer/src/PHPMailer.php';
 require 'PHPMailer/src/SMTP.php';
-
+require 'config.php';
 // User-defined variables
 $userName = $_POST['UserName']; 
 $userEmail = $_POST['UserEmail']; 
@@ -13,33 +13,31 @@ $subject = $_POST['subject'];
 $message = $_POST['message']; 
 
 // Page URL
-$pageURL = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"; // Replace with your actual page URL
+$pageURL = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"; 
 
 // Recipient's email address
 $recipientEmail = "insurance.support@verismart.ai";
 
-// Create a PHPMailer object
+
 $mail = new PHPMailer(true);
 
 try {
-    // SMTP server settings
-    $mail->SMTPDebug = 2; // Set to 2 for debugging
+    $mail->SMTPDebug = 0; 
     $mail->isSMTP();
-    $mail->Host = 'smtp.gmail.com'; // Replace with your SMTP server
+    $mail->Host = $smtpHost; 
     $mail->SMTPAuth = true;
-    $mail->Username = 'insurance.support@verismart.ai'; // Replace with your SMTP username
-    $mail->Password = 'ihltfgyshudohzsx'; // Replace with your SMTP password
-    $mail->SMTPSecure = 'ssl'; // Use 'tls' or 'ssl' depending on your server configuration
-    $mail->Port = 465; // Change to the appropriate SMTP port
+    $mail->Username = $smtpUsername; 
+    $mail->Password = $smtpPassword; 
+    $mail->SMTPSecure = $smtpSecure; 
+    $mail->Port = $smtpPort; 
 
-    // Sender information
     $mail->setFrom("insurance.support@verismart.ai");
 
     // Recipient
     $mail->addAddress($recipientEmail);
 
     // Email content
-    $mail->isHTML(true); // Set to true to send HTML email
+    $mail->isHTML(true); 
     $mail->Subject = $subject;
     
     // Build a styled HTML message
