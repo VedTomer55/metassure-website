@@ -5136,9 +5136,6 @@ body.dark-theme .about .stats-counter.stats-cards .stat-box {
 /* Add this CSS to your stylesheet */
 @media (max-width: 768px) {
   .header-logo .featured-text {
-    font-size: 8px !important; /* Adjust the font size as needed */
-    white-space: nowrap; /* Prevent text from wrapping */
-    overflow: hidden; /* Hide any overflow */
-    text-overflow: ellipsis; /* Show ellipsis for overflow text */
+    font-size: 10px !important; /* Adjust the font size as needed */
   }
 }
