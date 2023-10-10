@@ -124,13 +124,15 @@
             These policies uploaded in the website of Metawing Technologies are illustrative in nature and the rights and liabilities of the parties are to be governed strictly by the actual contract entered into and signed by the parties thereto. The party intending to seek insurance cover from Metawing Technologies, may at its option, pay extra premium and get add-on coverage in respect of the particular insurance policy.
           </p>
 
-          <!-- <h5>9. Contact Us</h5>
+          <h5>9. Contact Us</h5>
 
-          <p>
-            If you have questions or concerns about this Privacy Policy or our
-            data practices, please contact us at
-            <a class="text-lowercase info" href="mailto:hello@metassure.ai">hello@metassure.ai</a>.
-          </p> -->
+            <p>
+              If you have questions or concerns about this Privacy Policy or our
+              data practices, please contact us at
+              <a class="text-lowercase info" href="mailto:hello@verismart.ai"
+                >hello@verismart.ai</a
+              >.
+            </p>
       </div>
       <div class="modal-footer">
         <button class="btn-solid" type="button" data-bs-dismiss="modal" aria-label="Close">

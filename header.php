@@ -3,7 +3,7 @@
    <div class="container">
      <nav class="menu-navbar">
        <div class="header-logo">
-         <a class="logo-link" href="/"><img class="logo-img light-logo" loading="lazy" src="assets/images/logo/Metassure-Logo-Final-2.png" alt="logo" /><img class="logo-img dark-logo" loading="lazy" src="assets/images/logo/Metassure-Logo-Final-2.png" alt="logo" /><span> Your Fast Lane to Secure Motor Insurance</span></a>
+         <a class="logo-link" href="/"><img class="logo-img light-logo" loading="lazy" src="assets/images/logo/Metassure-Logo-Final-2.png" alt="logo" /><img class="logo-img dark-logo" loading="lazy" src="assets/images/logo/Metassure-Logo-Final-2.png" alt="logo" /><span class=" featured-text"> Your Fast Lane to Secure Motor Insurance</span></a>
        </div>
 
        <div class="links menu-wrapper">

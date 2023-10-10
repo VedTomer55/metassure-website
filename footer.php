@@ -3,6 +3,9 @@
       <div class="container">
         <div class="row footer-cols">
           <div class="col-12 col-md-8 col-lg-4 footer-col">
+
+          
+
             <img
               class="img-fluid footer-logo"
               loading="lazy"
@@ -11,7 +14,7 @@
             />
             <div class="footer-col-content-wrapper">
               <p class="footer-text-about-us">
-                Transparent. Trustworthy. Futuristic
+              Your Fast Lane to Secure Motor Insurance
               </p>
             </div>
             <div class="form-area">
@@ -194,10 +197,10 @@
             </div>
             <div class="col-12 col-md-6 d-flex justify-content-end">
               <div class="terms-links">
-                <!-- <a href="#0"
+                <a href="#0"
                  data-bs-toggle="modal"
                   data-bs-target="#termsofuseModal"
-                >Terms of Use </a> | -->
+                >Terms of Use </a> |
                 <a
                   href="#0"
                   data-bs-toggle="modal"

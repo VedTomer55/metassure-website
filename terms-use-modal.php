@@ -8,8 +8,8 @@
       <div class="modal-dialog modal-dialog-scrollable modal-xl">
         <div class="modal-content text-dark">
           <div class="modal-header">
-            <h2 class="modal-title" id="termsofuseModal">
-              Privacy Policy
+            <h2 class="modal-title " id="termsofuseModal">
+            Terms and Conditions
             </h2>
             <button
               class="btn-close"
@@ -19,101 +19,51 @@
             ></button>
           </div>
           <div class="modal-body">
-            <p><strong>Effective Date:</strong> 29 Sep 2023</p>
+           
 
-            <h6>1. Introduction</h6>
+            <h6>1. No Warranties for Merchantability </h6>
 
             <p>
-              Welcome to Metassure's Privacy Policy. This policy outlines how we
-              collect, use, disclose, and protect your personal information. By
-              using our services, you consent to the practices described in this
-              policy.
+            Metawing Technologies does not give any warranty about the merchantability, suitability or utility of the Website for the user of the website. The user of this website acknowledges and agrees to the following terms and conditions without limitation or qualification. These terms and conditions may be revised at any time by Metawing Technologies to update this posting. The user would be bound by any such revision and should therefore periodically visit this page to review the amended current items and condition which will be binding on the user. 
             </p>
 
-            <h5>2. Information We Collect</h5>
+            <h5>2. Copyrights and Trademarks</h5>
 
-            <p>We may collect the following types of information:</p>
+            <p>The contents of this website are protected by the copyright laws of India. Reproduction, redistribution, re-transmission, modification, republishing or making public or commercial use of all or any part of the material in this website, in any form without the expressed consent of Metawing Technologies Private Limited is prohibited.</p>
 
-            <ul>
-              <li>
-                <strong>Personal Information:</strong> Such as your name,
-                contact details, and any other information you provide when
-                using our services.
-              </li>
-              <li>
-                <strong>Usage Information:</strong> Information about how you
-                interact with our website or services, including IP addresses,
-                browser types, and device identifiers.
-              </li>
-            </ul>
+            
 
-            <h5>3. How We Use Your Information</h5>
+            <h5>3. Disclaimer</h5>
 
-            <p>We may use your information for the following purposes:</p>
+            <p>The material on this website is provided “as is” and without warranties of any kind either expressed or implied. To the fullest extent permissible pursuant to applicable law, Metawing Technologies Pvt. Ltd. disclaims all warranties, expressed or implied, including, but not limited to, implied and fitness for a particular purpose. Metawing Technologies does not warrant that the functions contained in the materials will be uninterrupted or error-free, that defects will be corrected, or that this website or the server that makes it available are free of viruses or other harmful components. The information and descriptions contained herein are not intended to be complete descriptions of all terms, exclusions and conditions applicable to the products and services, but are provided solely for general informational purposes.</p>
 
-            <ul>
-              <li>To provide and improve our services.</li>
-              <li>
-                To communicate with you, including sending updates, newsletters,
-                and promotional materials.
-              </li>
-              <li>
-                To analyze usage patterns and improve our website and services.
-              </li>
-            </ul>
+            <p>The information, documents or other items provided or available herein could include technical inaccuracies or typographical errors. Changes can be periodically added to the information or documents provided or available herein. Metawing Technologies Pvt. Ltd. May make improvements and/or changes to the information or documents provided or available herein at any time.</p>
 
-            <h5>4. Disclosure of Your Information</h5>
 
-            <p>We may share your information with:</p>
+            <h5>4. Technical Access</h5>
 
-            <ul>
-              <li>
-                Service Providers: Third-party service providers who assist us
-                in delivering our services.
-              </li>
-              <li>
-                Legal Compliance: When required by law or to protect our rights
-                or the rights of others.
-              </li>
-            </ul>
+            <p>Metawing Technologies does not assume any responsibility or liability for timely, trouble free and uninterrupted access to the internet. Metawing Technologies has no liability for persons, property damage or especially direct, indirect, immediate or subsequent pecuniary loss. </p>
 
-            <h5>5. Your Choices</h5>
+            
+
+            <h5>5. Privacy and ownership of information</h5>
 
             <p>
-              You can manage your communication preferences and choose not to
-              receive promotional materials. You can also request access to,
-              correction of, or deletion of your personal information.
+            Unless otherwise expressly set forth herein, any information, communications or material the user may transit to this website by electronic mail or otherwise, including data, questions, comments, or suggestions will be treated as non-confidential and non-proprietary and will become the property of Metawing Technologies Pvt. Ltd. Such information, communications or material may be used for any purpose, including, but not limited to, reproduction, solicitations, disclosure, transmission, publication, broadcast, and posting. Furthermore, Metawing Technologies is free to use any ideas, concepts, know-how, or techniques contained in any communication you send to this website for any purpose whatsoever, including, but not limited to, developing and marketing products using such information. 
             </p>
 
-            <h5>6. Security</h5>
+            <h5>6. Software Licenses</h5>
 
             <p>
-              We take reasonable measures to protect your information, but no
-              method of transmission over the internet is 100% secure.
-            </p>
-
-            <h5>7. Links to Other Websites</h5>
-
-            <p>
-              Our website may contain links to third-party websites. We are not
-              responsible for their privacy practices, and we encourage you to
-              review their privacy policies.
-            </p>
-
-            <h5>8. Changes to this Policy</h5>
-
-            <p>
-              We may update this Privacy Policy periodically. The effective date
-              at the top of the policy will indicate the most recent revision.
+            The user acknowledges that any software available or provided to the user on this website may contain technology that is subject to strict controls by various agencies of the India Government pursuant to India Government export control laws and regulations. Metawing Technologies does not authorize the downloading or exportation of any software or technical data from this website to any jurisdiction prohibited by the Indian export controls laws and regulations. 
             </p>
 
             <h5>9. Contact Us</h5>
 
             <p>
-              If you have questions or concerns about this Privacy Policy or our
-              data practices, please contact us at
-              <a class="text-lowercase info" href="mailto:hello@Metassure.ai"
-                >hello@Metassure.ai</a
+              If you have questions or concerns about this terms and conditions, please contact us at
+              <a class="text-lowercase info" href="mailto:hello@verismart.ai"
+                >hello@verismart.ai</a
               >.
             </p>
           </div>
