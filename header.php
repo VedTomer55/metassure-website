@@ -3,8 +3,9 @@
    <div class="container">
      <nav class="menu-navbar">
        <div class="header-logo">
-         <a class="logo-link" href="/"><img class="logo-img light-logo" loading="lazy" src="assets/images/logo/Metassure-Logo-Final-2.png" alt="logo" /><img class="logo-img dark-logo" loading="lazy" src="assets/images/logo/Metassure-Logo-Final-2.png" alt="logo" /></a>
+         <a class="logo-link" href="/"><img class="logo-img light-logo" loading="lazy" src="assets/images/logo/Metassure-Logo-Final-2.png" alt="logo" /><img class="logo-img dark-logo" loading="lazy" src="assets/images/logo/Metassure-Logo-Final-2.png" alt="logo" /><span> Your Fast Lane to Secure Motor Insurance</span></a>
        </div>
+
        <div class="links menu-wrapper">
          <ul class="list-js links-list">
            <li class="menu-item">
@@ -40,13 +41,7 @@
                  <a class="menu-link sub-menu-link" href="about-us.php">about us</a>
                </li>
 
-               <!-- <li class="menu-item sub-menu-item">
-                 <a class="menu-link sub-menu-link" href="https://Metassure.ai/blogs/">blog</a>
-               </li> -->
-
-               <!-- <li class="menu-item sub-menu-item">
-                 <a class="menu-link sub-menu-link" href="our-team.php">Our team</a>
-               </li> -->
+              
 
                <li class="menu-item sub-menu-item">
                  <a class="menu-link sub-menu-link" href="contact-us.php">contact us

@@ -95,7 +95,7 @@
                     <i class="flaticon-email icon"></i>
                     <div class="card-content">
                       <h6 class="content-title">email:</h6>
-                      <a class="email link" href="mailto:hello@Metassure.ai">hello@Metassure.ai</a>
+                      <a class="email link" href="mailto:hello@verismart.ai">hello@verismart.ai</a>
                     </div>
                   </div>
                   <div class="location-card">
@@ -119,7 +119,7 @@ North Delhi - 110035
                     <i class="flaticon-email icon"></i>
                     <div class="card-content">
                       <h6 class="content-title">email:</h6>
-                      <a class="email link" href="mailto:hello@Metassure.ai">hello@Metassure.ai</a>
+                      <a class="email link" href="mailto:hello@verismart.ai">hello@verismart.ai</a>
                     </div>
                   </div>
                   <div class="location-card">

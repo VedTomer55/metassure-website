@@ -13,7 +13,7 @@ $subject = $_POST['subject'];
 $message = $_POST['message']; 
 
 // Page URL
-$pageURL = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"; 
+$pageURL = "http://$_SERVER[HTTP_HOST]"."/contact-us.php"; 
 
 // Recipient's email address
 $recipientEmail = "insurance.support@verismart.ai";

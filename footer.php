@@ -42,9 +42,9 @@
                    
                   </div>
                                                                             
-                  <span an class="email-notice"
+                  <!-- <span an class="email-notice"
                     >*we will not share your personal info</span
-                  >
+                  > -->
                 </form>
               </div>
             </div>
@@ -126,8 +126,8 @@
             <div class="footer-col-content-wrapper">
               <div class="contact-info-card">
                 <i class="bi bi-envelope icon"></i
-                ><a class="text-lowercase info" href="mailto:hello@Metassure.ai"
-                  >hello@Metassure.ai</a
+                ><a class="text-lowercase info" href="mailto:hello@verismart.ai"
+                  >hello@verismart.ai</a
                 >
               </div>
               <div class="contact-info-card">
@@ -192,12 +192,12 @@
                 | All Rights Reserved
               </p>
             </div>
-            <!-- <div class="col-12 col-md-6 d-flex justify-content-end">
+            <div class="col-12 col-md-6 d-flex justify-content-end">
               <div class="terms-links">
-                <a href="#0"
+                <!-- <a href="#0"
                  data-bs-toggle="modal"
                   data-bs-target="#termsofuseModal"
-                >Terms of Use </a> |
+                >Terms of Use </a> | -->
                 <a
                   href="#0"
                   data-bs-toggle="modal"
@@ -205,7 +205,7 @@
                   >Privacy Policy.</a
                 >
               </div>
-            </div> -->
+            </div>
           </div>
         </div>
       </div>
