@@ -5133,3 +5133,12 @@ body.dark-theme .about .stats-counter.stats-cards .stat-box {
 /* Define the animation */
 
 
+/* Add this CSS to your stylesheet */
+@media (max-width: 768px) {
+  .header-logo .featured-text {
+    font-size: 8px; /* Adjust the font size as needed */
+    white-space: nowrap; /* Prevent text from wrapping */
+    overflow: hidden; /* Hide any overflow */
+    text-overflow: ellipsis; /* Show ellipsis for overflow text */
+  }
+}
