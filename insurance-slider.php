@@ -41,7 +41,7 @@
 
                <div class="col-12">
                  <div class="cta-links-area">
-                   <a class="btn-solid cta-link cta-link-primary" href="https://wa.me/918448850166?text=renew">Start Your Insurance</a>
+                   <a class="btn-solid cta-link cta-link-primary" href="https://wa.me/918448850166?text=renew">Instant Insurance</a>
 
                  </div>
                </div>
@@ -79,7 +79,7 @@
                </div>
                <div class="col-12">
                  <div class="cta-links-area">
-                   <a class="btn-solid cta-link cta-link-primary" href="https://wa.me/918448850166?text=renew">Get Covered Now</a>
+                   <a class="btn-solid cta-link cta-link-primary" href="https://wa.me/918448850166?text=renew">Swift FASTag Insurance</a>
 
                  </div>
                </div>
@@ -123,7 +123,7 @@
                </div>
                <div class="col-12">
                  <div class="cta-links-area">
-                   <a class="btn-solid cta-link cta-link-primary" href="https://wa.me/918448850166?text=renew">Get Started</a>
+                   <a class="btn-solid cta-link cta-link-primary" href="https://wa.me/918448850166?text=renew">Insure with Insights</a>
 
                  </div>
                </div>

@@ -1,0 +1,30 @@
+pipeline {
+    agent any
+    environment {
+        S3_ACCESS_KEY_ID      = credentials('S3_ACCESS_KEY_ID')
+        S3_SECRET_ACCESS_KEY  = credentials('S3_SECRET_ACCESS_KEY')
+    }
+
+    stages {
+        stage('Deploy') {
+            steps {
+                script{
+                    switch(env.BRANCH_NAME) {
+                    case 'main':
+                        sh('python3 .deployment/main_deploy.py $S3_ACCESS_KEY_ID $S3_SECRET_ACCESS_KEY')
+                        break
+                    case 'uat':
+                        sh('python3 .deployment/uat_deploy.py $S3_ACCESS_KEY_ID $S3_SECRET_ACCESS_KEY')
+                        break
+                    case 'dev':
+                        sh('python3 .deployment/dev_deploy.py $S3_ACCESS_KEY_ID $S3_SECRET_ACCESS_KEY')
+                        break
+                    default: 
+                        echo "Deploy scripts only on dev, uat and main"
+                        break
+                    }
+                }
+            }
+        }
+    }
+}

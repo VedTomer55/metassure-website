@@ -222,9 +222,9 @@
     </div>
     <!-- End loading-screen Component-->
     <!-- Start back-to-top Button-->
-    <div class="back-to-top" id="back-to-top">
+    <!-- <div class="back-to-top" id="back-to-top">
       <i class="bi bi-arrow-up icon"></i>
-    </div>
+    </div> -->
     <!-- End back-to-top Button-->
     <!-- Start privacy-policy-modal-->
     <?php include("privacy-policy-modal.php");?>
@@ -265,7 +265,8 @@
     <script src="js/main.js"></script>
 
 
- 
+    <script src="assets/wa_plugin-dev/wabot-1.0.js" async defer></script> 
+  <div class="dolphinchat-app-a06ed04d3ab645418731c85668acecca"></div>
 
  
 

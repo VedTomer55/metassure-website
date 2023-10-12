@@ -435,7 +435,7 @@
             </div>
           </div>
           <!--Start .see-more-area-->
-          <div class="see-more-area wow fadeInUp" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;"><a class=" btn-solid cta-link" href="https://wa.me/918448850166?text=renew">Start Your Policy!</a></div>
+          <div class="see-more-area wow fadeInUp" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;"><a class=" btn-solid cta-link" href="https://wa.me/918448850166?text=renew">Secure Coverage Now!</a></div>
           <!--End Of .see-more-area        -->
         </div>
       </div>
