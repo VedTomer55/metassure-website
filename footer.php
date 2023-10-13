@@ -1,5 +1,7 @@
+
   <footer class="page-footer dark-color-footer" id="page-footer">
-      <div class="overlay-photo-image-bg" data-bg-img="assets/images/sections-bg-images/footer-bg-1.jpg" data-bg-opacity=".25" style="background-image: url(&quot;assets/images/sections-bg-images/footer-bg-1.jpg&quot;); opacity: 0.25;"></div>
+  <div class="dolphinchat-app-a06ed04d3ab645418731c85668acecca"></div>   
+  <div class="overlay-photo-image-bg" data-bg-img="assets/images/sections-bg-images/footer-bg-1.jpg" data-bg-opacity=".25" style="background-image: url(&quot;assets/images/sections-bg-images/footer-bg-1.jpg&quot;); opacity: 0.25;"></div>
       <div class="container">
         <div class="row footer-cols">
           <div class="col-12 col-md-8 col-lg-4 footer-col">
@@ -191,7 +193,7 @@
               <p class="creadits">
                 &copy; 2023
 
-                <a class="link" href="#">Metassure</a>
+                <a class="link" href="#">Metawing Technologies Pvt. Ltd.</a>
                 | All Rights Reserved
               </p>
             </div>
@@ -266,7 +268,6 @@
 
 
     <script src="assets/wa_plugin-dev/wabot-1.0.js" async defer></script> 
-  <div class="dolphinchat-app-a06ed04d3ab645418731c85668acecca"></div>
 
  
 
