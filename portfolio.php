@@ -139,7 +139,7 @@
     <!-- End  our-clients Section-->
     <!-- Start  take-action Section-->
     <section class="take-action elf-section has-dark-bg" id="take-action">
-    <div class="overlay-photo-image-bg" data-bg-img="assets/images/sections-bg-images/pattern-bg-3.jpg" data-bg-opacity=".2" style="background-image: url(&quot;assets/images/sections-bg-images/pattern-bg-3.jpg&quot;); opacity: 0.2;"></div>
+    <div class="overlay-photo-image-bg" data-bg-img="assets/images/sections-bg-images/pattern-bg-3.webp" data-bg-opacity=".2" style="background-image: url(&quot;assets/images/sections-bg-images/pattern-bg-3.webp&quot;); opacity: 0.2;"></div>
    <div class="cta-wrapper">
         <div class="container">
           <div class="sec-heading  centered mb-0 ">
