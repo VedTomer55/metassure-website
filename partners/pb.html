@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body></body>
+  <script>
+    const queryParam = window.location.search;
+
+    const urlData = new URLSearchParams(queryParam);
+
+    const ID = urlData.get("transaction_id");
+
+    const ENV = urlData.get("env");
+
+    var redirectionUrl;
+
+    var myHeaders = new Headers();
+
+    myHeaders.append(
+      "authorization",
+      "bearer 803ea37848324450ab2689fe4a7a698b"
+    );
+
+    var requestOptions = {
+      method: "GET",
+      headers: myHeaders,
+    };
+
+    fetch(`https://${ENV}/v1/bot/pb-redirection-url/${ID}`, requestOptions)
+      .then((response) => response.json())
+      .then((result) => {
+        redirectionUrl = result.data.redirection_url;
+
+        if (redirectionUrl) {
+          const redirectionPage = document.createElement("a");
+
+          redirectionPage.setAttribute("href", redirectionUrl);
+
+          redirectionPage.setAttribute("target", "_blank");
+
+          document.body.appendChild(redirectionPage);
+
+          document.getElementsByTagName("a")[0].click();
+        }
+      })
+      .catch((error) => console.log("error", error));
+  </script>
+</html>
