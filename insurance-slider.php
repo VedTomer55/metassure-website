@@ -91,7 +91,7 @@
 
        <!--third slider-->
        <div class="swiper-slide">
-         <div class="slide-bg-img" data-bg-img="assets/images/hero/insurance-3.wepb" style="background-image: url(&quot;assets/images/hero/insurance-3.wepb&quot;);">
+         <div class="slide-bg-img" data-bg-img="assets/images/hero/insurance-3.webp" style="background-image: url(&quot;assets/images/hero/insurance-3.webp&quot;);">
            <div class="overlay-color" data-bg-opacity=".35" style="opacity: 0.35;"></div>
          </div>
          <div class="container">
