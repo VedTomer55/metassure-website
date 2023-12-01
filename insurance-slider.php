@@ -51,7 +51,7 @@
          </div>
        </div>
        <!--second slider-->
-       <div class="swiper-slide">
+       <!-- <div class="swiper-slide">
          <div class="slide-bg-img" data-bg-img="assets/images/hero/insurance-1.webp" style="background-image: url(&quot;assets/images/hero/insurance-1.webp&quot;);">
            <div class="overlay-color" data-bg-opacity=".35" style="opacity: 0.35;"></div>
          </div>
@@ -86,7 +86,7 @@
              </div>
            </div>
          </div>
-       </div>
+       </div> -->
 
 
        <!--third slider-->
