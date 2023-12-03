@@ -88,7 +88,7 @@
                     <div class="info-item"><i class="flaticon-medal  info-icon"></i>
                       <div class="info-content">
                         <h5 class="info-title">first on field </h5>
-                        <p class="info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, iste</p>
+                        <p class="info-text">First on field, forever trusted by clients - where reliability meets excellence.</p>
                       </div>
                     </div>
                   </div>
@@ -96,7 +96,7 @@
                     <div class="info-item"><i class="flaticon-game-console info-icon"></i>
                       <div class="info-content">
                         <h5 class="info-title">easy to reach </h5>
-                        <p class="info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, iste</p>
+                        <p class="info-text">Easy to reach, always trusted – because client satisfaction is just a step away with our exceptional product.</p>
                       </div>
                     </div>
                   </div>
@@ -104,7 +104,7 @@
                     <div class="info-item"><i class="flaticon-map info-icon"></i>
                       <div class="info-content">
                         <h5 class="info-title">worldwide services </h5>
-                        <p class="info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, iste</p>
+                        <p class="info-text">Trusted worldwide, our product's excellence knows no borders.</p>
                       </div>
                     </div>
                   </div>
@@ -112,7 +112,7 @@
                     <div class="info-item"><i class="flaticon-technical-support-1  info-icon"></i>
                       <div class="info-content">
                         <h5 class="info-title">24/7 support </h5>
-                        <p class="info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, iste</p>
+                        <p class="info-text">Our product stands out with 24/7 support, ensuring client confidence every hour, every day.</p>
                       </div>
                     </div>
                   </div>
@@ -270,7 +270,7 @@
           </div>
         </div>
         <!--Start .see-more-area-->
-        <div class="see-more-area wow fadeInUp" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;"><a class=" btn-solid cta-link" href="https://wa.me/918448850166?text=renew">Start Your Policy!</a></div>
+        <div class="see-more-area wow fadeInUp" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;"><a class=" btn-solid cta-link" href="#0" data-bs-toggle="modal" data-bs-target="#leadsModal">Start Your Policy!</a></div>
         <!--End Of .see-more-area        -->
       </div>
     </div>

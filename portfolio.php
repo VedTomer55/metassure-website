@@ -46,7 +46,7 @@
     <!--End Page Header-->
     <!-- Start inner Page hero-->
     <section class="d-flex align-items-center page-hero  inner-page-hero " id="page-hero">
-    <div class="overlay-photo-image-bg parallax" data-bg-img="assets/images/hero/inner-page-hero.jpg" data-bg-opacity="1" style="background-image: url(&quot;assets/images/hero/inner-page-hero.jpg&quot;); opacity: 1;"></div>
+        <div class="overlay-photo-image-bg parallax" data-bg-img="assets/images/hero/inner-page-hero.jpg" data-bg-opacity="1" style="background-image: url(&quot;assets/images/hero/inner-page-hero.jpg&quot;); opacity: 1;"></div>
         <div class="overlay-color" data-bg-opacity=".75"></div>
         <div class="container">
             <div class="hero-text-area centerd">
@@ -68,7 +68,7 @@
                 <div class="content-area"><span class=" pre-title       wow fadeInUp " data-wow-delay=".2s">portfolio</span>
                     <h2 class=" title    wow fadeInUp" data-wow-delay=".4s">Awesome <span class='hollow-text'>portfolio</span></h2>
                 </div>
-              
+
             </div>
             <div class="portfolio-wrapper  ">
                 <!--a menu of links to show the photos users needs   -->
@@ -130,29 +130,29 @@
     </section>
     <!-- End  portfolio Section-->
     <!-- Start  testimonials Section-->
-    <?php 
+    <?php
     // include("testmonials.php");
-     ?>
+    ?>
     <!-- End  testimonials Section-->
     <!-- Start  our-clients Section-->
     <?php include("our-clients.php"); ?>
     <!-- End  our-clients Section-->
     <!-- Start  take-action Section-->
     <section class="take-action elf-section has-dark-bg" id="take-action">
-    <div class="overlay-photo-image-bg" data-bg-img="assets/images/sections-bg-images/pattern-bg-3.webp" data-bg-opacity=".2" style="background-image: url(&quot;assets/images/sections-bg-images/pattern-bg-3.webp&quot;); opacity: 0.2;"></div>
-   <div class="cta-wrapper">
-        <div class="container">
-          <div class="sec-heading  centered mb-0 ">
-            <div class="content-area"><span class="pre-title       wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">Get a Quote Today</span>
-              <h2 class="title    wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">Protect Yourself Today</h2>
-              <p class="subtitle   wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">Protecting your vehicle and yourself on the road is just a few clicks away. Get a free quote today and let us help you find the motor insurance solution that best suits your needs. Drive with confidence knowing that you're covered by Metassure. Your safety and peace of mind are our top priorities:</p>
+        <div class="overlay-photo-image-bg" data-bg-img="assets/images/sections-bg-images/pattern-bg-3.webp" data-bg-opacity=".2" style="background-image: url(&quot;assets/images/sections-bg-images/pattern-bg-3.webp&quot;); opacity: 0.2;"></div>
+        <div class="cta-wrapper">
+            <div class="container">
+                <div class="sec-heading  centered mb-0 ">
+                    <div class="content-area"><span class="pre-title       wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">Get a Quote Today</span>
+                        <h2 class="title    wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">Protect Yourself Today</h2>
+                        <p class="subtitle   wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">Protecting your vehicle and yourself on the road is just a few clicks away. Get a free quote today and let us help you find the motor insurance solution that best suits your needs. Drive with confidence knowing that you're covered by Metassure. Your safety and peace of mind are our top priorities:</p>
+                    </div>
+                </div>
+                <!--Start .see-more-area-->
+                <div class="see-more-area wow fadeInUp" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;"><a class=" btn-solid cta-link" href="#0" data-bs-toggle="modal" data-bs-target="#leadsModal">Start Your Policy!</a></div>
+                <!--End Of .see-more-area        -->
             </div>
-          </div>
-          <!--Start .see-more-area-->
-          <div class="see-more-area wow fadeInUp" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;"><a class=" btn-solid cta-link" href="https://wa.me/918448850166?text=renew">Start Your Policy!</a></div>
-          <!--End Of .see-more-area        -->
         </div>
-      </div>
     </section>
     <!-- End  take-action Section-->
     <!-- Start  page-footer Section-->

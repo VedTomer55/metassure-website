@@ -160,6 +160,8 @@
 <?php include("terms-use-modal.php"); ?>
 <!-- End privacy-policy-modal-->
 
+<?php include("leads.php"); ?>
+
 <!--     JQuery     -->
 <script src="js/vendors/jquery-3.6.1.min.js"></script>
 

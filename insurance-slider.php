@@ -26,8 +26,8 @@
                </div>
                <div class="col-12 col-md-8 col-lg-7">
                  <h1 class="slide-title">
-                   Simplify Your Insurance Experience with
-                   <span class="featured-text">MetaAssure
+                   Fastag Excellence: Elevating Your Toll
+                   <span class="featured-text">Journeys
                      <svg xmlns="http://www.w3.org/2000/svg" class="wavey-underline" width="1104.664" height="100.188" viewBox="0 0 1104.664 100.188">
                        <path id="Path_208" data-name="Path 208" transform="translate(-504.796 -1565.664)" fill="none" stroke="#030303" stroke-width="5" />
                      </svg></span><span class="design-element rounded-shape stripes"></span>
@@ -35,13 +35,13 @@
                </div>
                <div class="col-10 col-md-8 col-lg-6">
                  <p class="slide-subtitle">
-                   Forget lengthy forms and phone calls. We've streamlined the insurance process. Get insured effortlessly in a matter of minutes. Experience speed and convenience like never before with MetaAssures
+                   Experience seamless and efficient toll payments with our company's Fastag services, ensuring swift journeys on the roadways of convenience
                  </p>
                </div>
 
                <div class="col-12">
                  <div class="cta-links-area">
-                   <a class="btn-solid cta-link cta-link-primary" href="https://wa.me/918448850166?text=renew">Instant Insurance</a>
+                   <a class="btn-solid cta-link cta-link-primary" href="#0" data-bs-toggle="modal" data-bs-target="#leadsModal">Instant Insurance</a>
 
                  </div>
                </div>
@@ -79,7 +79,7 @@
                </div>
                <div class="col-12">
                  <div class="cta-links-area">
-                   <a class="btn-solid cta-link cta-link-primary" href="https://wa.me/918448850166?text=renew">Swift FASTag Insurance</a>
+                   <a class="btn-solid cta-link cta-link-primary" href="#0" data-bs-toggle="modal" data-bs-target="#leadsModal">Swift FASTag Insurance</a>
 
                  </div>
                </div>
@@ -109,8 +109,8 @@
                </div>
                <div class="col-12 col-md-8 col-lg-7">
                  <h1 class="slide-title">
-                   Delivering accurate work by data
-                   <span class="featured-text">Analaysis!
+                   Metassure: Comprehensive Insurance
+                   <span class="featured-text">Coverage!
                      <svg xmlns="http://www.w3.org/2000/svg" class="wavey-underline" width="1104.664" height="100.188" viewBox="0 0 1104.664 100.188">
                        <path id="Path_208" data-name="Path 208" transform="translate(-504.796 -1565.664)" fill="none" stroke="#030303" stroke-width="5" />
                      </svg></span><span class="design-element rounded-shape stripes"></span>
@@ -118,12 +118,12 @@
                </div>
                <div class="col-10 col-md-8 col-lg-6">
                  <p class="slide-subtitle">
-                   At Metassure, we redefine precision through the sophisticated lens of data analysis. The commitment is not just about providing insurance, it’s about delivering insights, reliability and a future where decisions are powered by data-driven intelligence.
+                   Secure your journeys with peace of mind – Metassure Insurance, an exclusive coverage ensuring comprehensive protection for your motor vehicles.
                  </p>
                </div>
                <div class="col-12">
                  <div class="cta-links-area">
-                   <a class="btn-solid cta-link cta-link-primary" href="https://wa.me/918448850166?text=renew">Insure with Insights</a>
+                   <a class="btn-solid cta-link cta-link-primary" href="#0" data-bs-toggle="modal" data-bs-target="#leadsModal">Insure with Insights</a>
 
                  </div>
                </div>
