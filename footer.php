@@ -162,6 +162,13 @@
 
 <?php include("leads.php"); ?>
 
+<div class="whatsapp-icon-container">
+  <div class="whatsapp-icon">
+    <a href="#0" data-bs-toggle="modal" data-bs-target="#leadsModal"> <i class="flaticon-whatsapp-1 info-icon" style="font-size: xxx-large;"></i>
+    </a>
+  </div>
+</div>
+
 <!--     JQuery     -->
 <script src="js/vendors/jquery-3.6.1.min.js"></script>
 
@@ -196,4 +203,4 @@
 <script src="js/main.js"></script>
 
 
-<script src="assets/wa_plugin-dev/wabot-1.0.js" async defer></script>
+<!-- <script src="assets/wa_plugin-dev/wabot-1.0.js" async defer></script> -->
