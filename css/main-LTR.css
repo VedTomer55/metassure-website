@@ -6052,7 +6052,7 @@ body.dark-theme .about .stats-counter.stats-cards .stat-box {
   overflow: hidden;
 }
 
-i[class^="flaticon-"]:before,
-i[class*=" flaticon-"]:before {
+i[class^="flaticon-whatsapp-"]:before,
+i[class*=" flaticon-whatsapp-"]:before {
   background-color: green;
 }
