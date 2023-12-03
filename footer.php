@@ -165,7 +165,7 @@
 <div class="whatsapp-icon-container position-fixed bottom-0 end-0 p-3">
   <div class="whatsapp-icon">
     <a href="#0" data-bs-toggle="modal" data-bs-target="#leadsModal">
-      <i class="flaticon-whatsapp info-icon" style="font-size: xxx-large;"></i>
+      <i class="flaticon-whatsapp-1 info-icon" style="font-size: xxx-large;"></i>
     </a>
   </div>
 </div>

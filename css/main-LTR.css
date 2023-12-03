@@ -6052,11 +6052,7 @@ body.dark-theme .about .stats-counter.stats-cards .stat-box {
   overflow: hidden;
 }
 
-/* @media (max-width: 767px) {
-  .whatsapp-icon-container {
-    bottom: auto;
-    top: 20px;
-    left: 20px;
-    right: auto;
-  }
-} */
+i[class^="flaticon-"]:before,
+i[class*=" flaticon-"]:before {
+  background-color: green;
+}
