@@ -26,7 +26,7 @@
                </div>
                <div class="col-12 col-md-8 col-lg-7">
                  <h1 class="slide-title">
-                   Fastag Excellence: Elevating Your Toll
+                   Fastag Excellence: Elevating Your
                    <span class="featured-text">Journeys
                      <svg xmlns="http://www.w3.org/2000/svg" class="wavey-underline" width="1104.664" height="100.188" viewBox="0 0 1104.664 100.188">
                        <path id="Path_208" data-name="Path 208" transform="translate(-504.796 -1565.664)" fill="none" stroke="#030303" stroke-width="5" />
