@@ -5,7 +5,7 @@
                 <img src="https://metassure.ai/assets/images/logo/Metassure-Logo-Final-2.png" class="img-fluid" alt="Motor Insurance" style="width:120px">
                 <h5 class="modal-title" id="leadsModalModalLabel">Motor Insurance</h5>
             </div>
-            <div class="modal-body">
+            <div class="modal-body" style="background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 
                 <div class="mb-4">
                     <h3 class="insurance-heading">Start Your Insurance Journey with Us</h3>
