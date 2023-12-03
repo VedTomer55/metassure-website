@@ -129,34 +129,4 @@
             }
         }
     }
-
-
-    function openWhatsAppChat() {
-        // Replace 'YOUR_PHONE_NUMBER' with your actual phone number
-        var phoneNumber = '918448850166';
-
-        // Replace 'YOUR_MESSAGE' with the default message you want to send
-        var defaultMessage = 'Hello! I have a question.';
-
-        // Construct the WhatsApp link
-        var whatsappLink = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(defaultMessage)}`;
-
-        // Create a ripple element
-        var ripple = document.createElement('div');
-        ripple.className = 'whatsapp-ripple';
-
-        // Append the ripple element to the icon
-        document.querySelector('.whatsapp-icon').appendChild(ripple);
-
-        // Trigger the ripple animation
-        setTimeout(() => {
-            ripple.style.transform = 'scale(4)';
-            ripple.style.opacity = '0';
-        }, 0);
-
-        // Open the WhatsApp link in a new tab or window after a short delay
-        setTimeout(() => {
-            window.open(whatsappLink, '_blank');
-        }, 200);
-    }
 </script>
