@@ -9,12 +9,12 @@
                 <form class="card-body cardbody-color p-lg-5" onsubmit="return false;">
                     <div class="mb-3">
                         <label for="mobileNumber" class="form-label">Mobile Number</label>
-                        <input type="text" class="form-control" id="mobileNumber" aria-describedby="mobileNumberHelp" placeholder="Mobile Number" oninput="validateInput('mobileNumber', 'mobileNumberError')">
+                        <input type="text" class="form-control" id="mobileNumber" aria-describedby="mobileNumberHelp" placeholder="Enter Mobile Number" oninput="validateInput('mobileNumber', 'mobileNumberError')">
                         <div id="mobileNumberError" class="error-message"></div>
                     </div>
                     <div class="mb-3">
                         <label for="vehicleRC" class="form-label">Vehicle Registration Number</label>
-                        <input type="text" class="form-control" id="vehicleRC" placeholder="Vehicle Registration Number" oninput="validateInput('vehicleRC', 'vehicleRCError')">
+                        <input type="text" class="form-control" id="vehicleRC" placeholder="Enter Vehicle Registration Number" oninput="validateInput('vehicleRC', 'vehicleRCError')">
                         <div id="vehicleRCError" class="error-message"></div>
                     </div>
                     <div style="text-align: end;">
