@@ -2,7 +2,7 @@
     <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
         <div class="modal-content text-dark">
             <div class="modal-header pop-heading">
-                <img src="http://metassure.com/assets/images/logo/Metassure-Logo-Final-2.png" class="img-fluid" alt="Motor Insurance" style="width:120px">
+                <img src="https://metassure.ai/assets/images/logo/Metassure-Logo-Final-2.png" class="img-fluid" alt="Motor Insurance" style="width:120px">
                 <h5 class="modal-title" id="leadsModalModalLabel">Metassure | Motor Insurance</h5>
             </div>
             <div class="modal-body">
