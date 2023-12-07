@@ -43,9 +43,7 @@
     const ID = urlKey.get("transaction_id");
     const ENV = urlKey.get("ENV");
 
-    const apiUrl = `https://${ENV}.backend-insurance.metawing.ai/v1/bot/pb-redirection-url/${
-      ID ? ID : "79d63454095d436ba608040cf77a804f"
-    }`;
+    const apiUrl = `https://${ENV}.backend-insurance.metawing.ai/v1/bot/pb-redirection-url/${ID}`;
 
     const myHeaders = new Headers();
     myHeaders.append(
